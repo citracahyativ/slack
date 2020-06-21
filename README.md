@@ -1,13 +1,13 @@
 DEMO https://react-slack-clone-2e4e7.web.app/
 
-![](screenshot/1.png)
-![](screenshot/2.png)
-![](screenshot/3.png)
-![](screenshot/4.png)
-![](screenshot/5.png)
-![](screenshot/6.png)
-![](screenshot/7.png)
-![](screenshot/8.png)
+![](src/ss/1.png)
+![](src/ss/2.png)
+![](src/ss/3.png)
+![](src/ss/4.png)
+![](src/ss/5.png)
+![](src/ss/6.png)
+![](src/ss/7.png)
+![](src/ss/8.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
